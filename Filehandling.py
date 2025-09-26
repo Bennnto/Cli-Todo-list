@@ -1,6 +1,3 @@
-import os
-import sys
-
 def load_his():
     # Load tasks from file and return as list of task (id, stat, text):
     tasks = []
