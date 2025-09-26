@@ -17,9 +17,9 @@ Todo lists write in simple python for command line interface
   - Store file in your directory
   - Open Terminal of Command line interface and Navigate to a directory that you store 'Filehangling.py'
 ```
-command : cd urdirectory
+command : cd 'urdirectory'
 ```
-  - Use command Chmod +x 'filename' to execute file
+  - Use command chmod +x 'filename' to execute file
 ```
 command : chmod +x Filehandling.py
 ```
@@ -27,3 +27,4 @@ command : chmod +x Filehandling.py
 ```
 command : python or python3 Filehandling.py
 ```
+<img width="317" height="136" alt="Screenshot 2025-09-26 at 2 29 43 AM" src="https://github.com/user-attachments/assets/6d420a32-b31b-444b-b9cc-e497b4a90c51" />
